@@ -1,2 +1,2 @@
-# py3_gather
+# py3_spider
 python3 爬虫
